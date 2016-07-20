@@ -1,0 +1,6 @@
+--ui bdd
+--require test/mocha_init.js
+--inline-diffs
+--recursive
+--reporter spec
+./app/**/*Spec.js
